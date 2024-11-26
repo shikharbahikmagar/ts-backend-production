@@ -1,0 +1,11 @@
+{
+  "name": "ts-backend-production",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shikhar",
+  "license": "ISC",
+  "description": ""
+}
